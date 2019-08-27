@@ -9,9 +9,7 @@ import android.view.MenuItem;
 import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import com.example.joketelling.JokeActivity;
-
 import static com.example.joketelling.JokeActivity.JOKE;
 
 
